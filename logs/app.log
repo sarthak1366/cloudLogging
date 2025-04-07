@@ -1,0 +1,227 @@
+2025-04-06 03:42:05 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 4676 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:42:05 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:42:06 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-06 03:42:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:42:06 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:42:06 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:42:06 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:42:06 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1509 ms
+2025-04-06 03:42:08 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:42:08 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-06 03:42:08 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 4.136 seconds (process running for 4.883)
+2025-04-06 03:43:20 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 03:43:20 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 03:46:04 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 552 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:46:04 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:46:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-06 03:46:05 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:46:05 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:46:05 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:46:05 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:46:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1278 ms
+2025-04-06 03:46:07 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:46:07 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8080 (http) with context path '/'
+2025-04-06 03:46:07 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.758 seconds (process running for 4.4)
+2025-04-06 03:48:01 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 03:48:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 03:48:01 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2025-04-06 03:48:01 [http-nio-8080-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: Required request body is missing: public java.lang.String com.cloudLogging.controller.UserController.createUser(com.cloudLogging.model.User)]
+2025-04-06 03:52:15 [http-nio-8080-exec-2] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')]
+2025-04-06 03:55:35 [http-nio-8080-exec-3] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')]
+2025-04-06 03:57:03 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 14984 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:57:03 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:57:05 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-06 03:57:05 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:05 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:57:05 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:57:05 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:57:05 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1921 ms
+2025-04-06 03:57:06 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:06 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-04-06 03:57:06 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-06 03:57:06 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-04-06 03:57:35 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 10212 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:57:35 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:57:36 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-06 03:57:36 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:36 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:57:36 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:57:36 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:57:36 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1407 ms
+2025-04-06 03:57:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:38 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-04-06 03:57:38 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-06 03:57:38 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-04-06 03:57:54 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 23768 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:57:54 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:57:55 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8080 (http)
+2025-04-06 03:57:55 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:55 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:57:55 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:57:56 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:57:56 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1264 ms
+2025-04-06 03:57:57 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8080"]
+2025-04-06 03:57:57 [main] WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'
+2025-04-06 03:57:57 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLogger - 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-04-06 03:57:57 [main] ERROR o.s.b.d.LoggingFailureAnalysisReporter - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2025-04-06 03:58:28 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 23228 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 03:58:28 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 03:58:29 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 03:58:29 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 03:58:29 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 03:58:29 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 03:58:29 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 03:58:29 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1396 ms
+2025-04-06 03:58:31 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 03:58:31 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 03:58:31 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.809 seconds (process running for 4.384)
+2025-04-06 03:58:55 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 03:58:55 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 03:58:55 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-06 03:58:55 [http-nio-8021-exec-1] WARN  o.s.w.s.m.s.DefaultHandlerExceptionResolver - Resolved [org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Unexpected character (''' (code 39)): expected a valid value (JSON String, Number, Array, Object or token 'null', 'true' or 'false')]
+2025-04-06 03:59:58 [http-nio-8080-exec-4] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:02:40 [http-nio-8021-exec-2] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:04:31 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:04:31 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:07:38 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 5404 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:07:38 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:07:39 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:07:39 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:07:39 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:07:39 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:07:39 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:07:39 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1388 ms
+2025-04-06 04:07:41 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:07:41 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:07:41 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.623 seconds (process running for 4.313)
+2025-04-06 04:07:48 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 04:07:48 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 04:07:48 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-06 04:07:48 [http-nio-8021-exec-1] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:09:09 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:09:09 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:12:32 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 26892 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:12:32 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:12:33 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:12:33 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:12:33 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:12:33 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:12:33 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:12:33 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1532 ms
+2025-04-06 04:12:35 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:12:35 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:12:35 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.978 seconds (process running for 4.733)
+2025-04-06 04:12:45 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 04:12:45 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 04:12:45 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-06 04:12:45 [http-nio-8021-exec-1] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:15:19 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:15:19 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:15:24 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 6496 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:15:24 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:15:26 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:15:26 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:15:26 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:15:26 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:15:26 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:15:26 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1694 ms
+2025-04-06 04:15:28 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:15:28 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:15:28 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 4.162 seconds (process running for 4.824)
+2025-04-06 04:24:24 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:24:24 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:24:30 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 23404 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:24:30 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:24:32 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:24:32 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:24:32 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:24:32 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:24:33 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:24:33 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2017 ms
+2025-04-06 04:24:34 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:24:34 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:24:34 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 4.628 seconds (process running for 5.95)
+2025-04-06 04:24:40 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 04:24:40 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 04:24:40 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-06 04:24:40 [http-nio-8021-exec-1] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:24:41 [http-nio-8021-exec-1] ERROR c.c.service.LoggingService - Failed to write log to Google Cloud Logging: Invalid character "/" in path section "projects/scam-botpoc/logs/custom-app-log".
+2025-04-06 04:25:31 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:25:31 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:25:35 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 9044 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:25:35 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:25:37 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:25:37 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:25:37 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:25:37 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:25:37 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:25:37 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1368 ms
+2025-04-06 04:25:38 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:25:38 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:25:38 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.642 seconds (process running for 4.235)
+2025-04-06 04:25:45 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 04:25:45 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 04:25:45 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 0 ms
+2025-04-06 04:25:45 [http-nio-8021-exec-1] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
+2025-04-06 04:27:07 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-04-06 04:27:07 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-04-06 04:27:11 [main] INFO  com.cloudLogging.cloudLogging - Starting cloudLogging using Java 17.0.12 with PID 19468 (D:\Sample Projects Java\CloudLogging\target\classes started by sarth in D:\Sample Projects Java\CloudLogging)
+2025-04-06 04:27:11 [main] INFO  com.cloudLogging.cloudLogging - No active profile set, falling back to 1 default profile: "default"
+2025-04-06 04:27:13 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port 8021 (http)
+2025-04-06 04:27:13 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:27:13 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-04-06 04:27:13 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.39]
+2025-04-06 04:27:13 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-04-06 04:27:13 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1337 ms
+2025-04-06 04:27:14 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8021"]
+2025-04-06 04:27:14 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port 8021 (http) with context path '/'
+2025-04-06 04:27:14 [main] INFO  com.cloudLogging.cloudLogging - Started cloudLogging in 3.598 seconds (process running for 4.17)
+2025-04-06 04:27:22 [http-nio-8021-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-04-06 04:27:22 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2025-04-06 04:27:22 [http-nio-8021-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2025-04-06 04:27:22 [http-nio-8021-exec-1] INFO  c.c.service.LoggingService - Creating user with ID: 101, Name: Alice
